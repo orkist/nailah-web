@@ -139,7 +139,7 @@ h2 {
 
 
 .fixed-menu {
-  background-color: #1B7B98;
+  background-color: #7fff00;
   position: fixed;
   top: 0;
 }
@@ -216,12 +216,12 @@ h2 {
 #main-slider 
 .carousel-caption a {
   font-size: 22px;
-  color: #2da1c5
+  color: #7fff00
 }
 
 #main-slider 
 .carousel-caption a:hover {
-  color: #2588a6
+  color: #7fff00
 }
 
 #main-slider 
@@ -241,8 +241,8 @@ h2 {
 
 #main-slider 
 .carousel-indicators li {
-  background-color:#1B7B98;
-  border: 1px solid #1B7B98;
+  background-color:#7fff00;
+  border: 1px solid #7fff00;
 }
 
 #main-slider 
@@ -393,7 +393,7 @@ h2 {
 *******Event CSS******
 **************************/
 #event {
-  background-color: #33888F;
+  background-color: #cccccc;
   background-image: url("../images/performar-bg.jpg");
   background-position: 50% 0;
   background-size: contain;

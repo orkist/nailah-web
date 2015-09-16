@@ -751,11 +751,11 @@ h2 {
 }
 
 #footer a {
-  color:#f7ab24
+  color: purple;
 }
 
 #footer a:hover {
-  color:#1B7B98
+  color:#7fff00;
 }
 
 

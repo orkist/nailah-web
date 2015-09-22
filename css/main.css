@@ -86,23 +86,23 @@ h2 {
 }
 
 .social-icons .fa-facebook:hover {
-  color: #7fff00
+  color: #3B5997
 }
 
 .social-icons .fa-twitter:hover {
-  color:#7fff00
+  color:#29C5F6
 }
 
 .social-icons .fa-google-plus:hover {
-  color:#7fff00
+  color:#D13D2F
 }
 
 .social-icons .fa-youtube:hover{
-  color: #7fff00
+  color: #ec5538
 }
 
 .navbar-brand {
-  background-color: #7fff00;
+  background-color: #1B7B98;
   height: 90px;
   margin-bottom: 20px;
   position: relative;
@@ -115,7 +115,7 @@ h2 {
 }
 
 .navbar-right {
-  background-color: #7fff00;
+  background-color: #1B7B98;
   padding:0 95px 0 0;
   opacity: .9
 }
@@ -133,13 +133,12 @@ h2 {
 .navbar-right li a:focus,  
 .navbar-right .active a {
   background-color: #fff;
-  /*color: #16728f*/
-  color: #7fff00;
+  color: #16728f
 }
 
 
 .fixed-menu {
-  background-color: #7fff00;
+  background-color: #1B7B98;
   position: fixed;
   top: 0;
 }
@@ -216,12 +215,12 @@ h2 {
 #main-slider 
 .carousel-caption a {
   font-size: 22px;
-  color: #7fff00
+  color: #2da1c5
 }
 
 #main-slider 
 .carousel-caption a:hover {
-  color: #7fff00
+  color: #2588a6
 }
 
 #main-slider 
@@ -241,8 +240,8 @@ h2 {
 
 #main-slider 
 .carousel-indicators li {
-  background-color:#7fff00;
-  border: 1px solid #7fff00;
+  background-color:#1B7B98;
+  border: 1px solid #1B7B98;
 }
 
 #main-slider 
@@ -390,25 +389,18 @@ h2 {
  
 
  /*************************
-*******Event CSS******
+*******MEDIA CSS******
 **************************/
-#event {
-  background-color: #cccccc;
-  background-image: url("../images/performar-bg.jpg");
-  background-position: 50% 0;
-  background-size: contain;
+#media {
+ 
+  background-image: url("../images/2performar-bg.jpg");
+  background-size: cover;
   position: relative;
   background-repeat: no-repeat;
 }
 
-.guitar {
-  position: absolute;
-  right:0;
-  top: 0
-}
 
-
-#event h2 {
+#media h2 {
   color: #FFFFFF;
   font-size: 36px;
   font-weight: 300;
@@ -751,11 +743,11 @@ h2 {
 }
 
 #footer a {
-  color: purple;
+  color:#f7ab24
 }
 
 #footer a:hover {
-  color:#7fff00;
+  color:#1B7B98
 }
 
 

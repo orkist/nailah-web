@@ -54,6 +54,7 @@
 
 }
 
+
 /* sm */
 @media (min-width: 768px) and (max-width: 991px) {
 
@@ -204,12 +205,13 @@
   }
 
    /*event */
-  .single-event {
+   
+   .single-event {
     margin-bottom: 40px;
   }
 
 
-  #event h2, 
+  #media h2, 
   #about h2, 
   #sponsor h2 {
     font-size: 30px;
@@ -449,3 +451,20 @@
 
 }
 
+/*YouTube*/
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

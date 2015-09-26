@@ -49,30 +49,30 @@
 #lbImageContainer>#lbHoverNav { left: 0; }
 #lbHoverNav a { outline: none; }
 
-#lbPrevHov { width: 48%; height: 100%; background: transparent url('/images/images/blank.gif') no-repeat; display: block; left: 0; float: left; margin-left: 3px; border: none !important; }
-	#lbPrevHov.black:hover, #lbPrevHov.black:visited { background: url('/images/images/prev_black_t.png') left 30% no-repeat; }
-	#lbPrevHov.grey:hover, #lbPrevHov.grey:visited { background: url('/images/images/prev_grey_t.png') left 30% no-repeat; }
-	#lbPrevHov.red:hover, #lbPrevHov.red:visited { background: url('/images/images/prev_red_t.png') left 30% no-repeat; }
-	#lbPrevHov.green:hover, #lbPrevHov.green:visited { background: url('/images/images/prev_green_t.png') left 30% no-repeat; }
-	#lbPrevHov.blue:hover, #lbPrevHov.blue:visited { background: url('/images/images/prev_blue_t.png') left 30% no-repeat; }
-	#lbPrevHov.gold:hover, #lbPrevHov.gold:visited { background: url('/images/images/prev_gold_t.png') left 30% no-repeat; }
-	#lbPrevHov.orange:hover, #lbPrevHov.orange:visited { background: url('/images/images/prev_orange_t.png') left 30% no-repeat; }
+#lbPrevHov { width: 48%; height: 100%; background: transparent url('images/images/blank.gif') no-repeat; display: block; left: 0; float: left; margin-left: 3px; border: none !important; }
+	#lbPrevHov.black:hover, #lbPrevHov.black:visited { background: url('images/images/prev_black_t.png') left 30% no-repeat; }
+	#lbPrevHov.grey:hover, #lbPrevHov.grey:visited { background: url('images/images/prev_grey_t.png') left 30% no-repeat; }
+	#lbPrevHov.red:hover, #lbPrevHov.red:visited { background: url('images/images/prev_red_t.png') left 30% no-repeat; }
+	#lbPrevHov.green:hover, #lbPrevHov.green:visited { background: url('images/images/prev_green_t.png') left 30% no-repeat; }
+	#lbPrevHov.blue:hover, #lbPrevHov.blue:visited { background: url('images/images/prev_blue_t.png') left 30% no-repeat; }
+	#lbPrevHov.gold:hover, #lbPrevHov.gold:visited { background: url('images/images/prev_gold_t.png') left 30% no-repeat; }
+	#lbPrevHov.orange:hover, #lbPrevHov.orange:visited { background: url('images/images/prev_orange_t.png') left 30% no-repeat; }
 	
-#lbNextHov { width: 48%; height: 100%; background: transparent url('/images/images/blank.gif') no-repeat; display: block; right: 0; float: right; margin-right: 3px; border: none !important; }
-	#lbNextHov.black:hover, #lbNextHov.black:visited { background: url('/images/images/next_black_t.png') right 30% no-repeat; }
-	#lbNextHov.grey:hover, #lbNextHov.grey:visited { background: url('/images/images/next_grey_t.png') right 30% no-repeat; }
-	#lbNextHov.red:hover, #lbNextHov.red:visited { background: url('/images/images/next_red_t.png') right 30% no-repeat; }
-	#lbNextHov.green:hover, #lbNextHov.green:visited { background: url('/images/images/next_green_t.png') right 30% no-repeat; }
-	#lbNextHov.blue:hover, #lbNextHov.blue:visited { background: url('/images/images/next_blue_t.png') right 30% no-repeat; }
-	#lbNextHov.gold:hover, #lbNextHov.gold:visited { background: url('/images/images/next_gold_t.png') right 30% no-repeat; }
-	#lbNextHov.orange:hover, #lbNextHov.orange:visited { background: url('/images/images/next_orange_t.png') right 30% no-repeat; }
+#lbNextHov { width: 48%; height: 100%; background: transparent url('images/images/blank.gif') no-repeat; display: block; right: 0; float: right; margin-right: 3px; border: none !important; }
+	#lbNextHov.black:hover, #lbNextHov.black:visited { background: url('images/images/next_black_t.png') right 30% no-repeat; }
+	#lbNextHov.grey:hover, #lbNextHov.grey:visited { background: url('images/images/next_grey_t.png') right 30% no-repeat; }
+	#lbNextHov.red:hover, #lbNextHov.red:visited { background: url('images/images/next_red_t.png') right 30% no-repeat; }
+	#lbNextHov.green:hover, #lbNextHov.green:visited { background: url('images/images/next_green_t.png') right 30% no-repeat; }
+	#lbNextHov.blue:hover, #lbNextHov.blue:visited { background: url('images/images/next_blue_t.png') right 30% no-repeat; }
+	#lbNextHov.gold:hover, #lbNextHov.gold:visited { background: url('images/images/next_gold_t.png') right 30% no-repeat; }
+	#lbNextHov.orange:hover, #lbNextHov.orange:visited { background: url('images/images/next_orange_t.png') right 30% no-repeat; }
 	
 #lbPrev, #lbPrevTop { width: 26px; height: 28px; float: right; margin: 0 0 1px 8px; border: none !important; }
-	#lbPrev.black, #lbPrevTop.black { background: url('/images/images/prev_black.png') no-repeat; }
-	#lbPrev.blackOff, #lbPrevTop.blackOff { background: url('/images/images/prev_black_off.png') no-repeat; cursor: default; }
-	#lbPrev.grey, #lbPrevTop.grey { background: url('/images/images/prev_grey.png') no-repeat; }
+	#lbPrev.black, #lbPrevTop.black { background: url('images/images/prev_black.png') no-repeat; }
+	#lbPrev.blackOff, #lbPrevTop.blackOff { background: url('images/images/prev_black_off.png') no-repeat; cursor: default; }
+	#lbPrev.grey, #lbPrevTop.grey { background: url('images/images/prev_grey.png') no-repeat; }
 	#lbPrev.greyOff, #lbPrevTop.greyOff { background: url('/images/images/prev_grey_off.png') no-repeat; cursor: default; }
-	#lbPrev.red, #lbPrevTop.red { background: url('/images/images/prev_red.png') no-repeat; }
+	#lbPrev.red, #lbPrevTop.red { background: url('images/images/prev_red.png') no-repeat; }
 	#lbPrev.redOff, #lbPrevTop.redOff { background: url('/images/images/prev_red_off.png') no-repeat; cursor: default; }
 	#lbPrev.green, #lbPrevTop.green { background: url('/images/images/prev_green.png') no-repeat; }
 	#lbPrev.greenOff, #lbPrevTop.greenOff { background: url('/images/images/prev_green_off.png') no-repeat; cursor: default; }
@@ -84,7 +84,7 @@
 	#lbPrev.orangeOff, #lbPrevTop.orangeOff { background: url('/images/images/prev_orange_off.png') no-repeat; cursor: default; }
 	
 #lbNext, #lbNextTop { width: 26px; height: 28px; float: right; margin: 0 0 1px 8px; border: none !important; }
-	#lbNext.black, #lbNextTop.black { background: url('/images/images/next_black.png') no-repeat; }
+	#lbNext.black, #lbNextTop.black { background: url('images/images/next_black.png') no-repeat; }
 	#lbNext.blackOff, #lbNextTop.blackOff { background: url('/images/images/next_black_off.png') no-repeat; cursor: default; }
 	#lbNext.grey, #lbNextTop.grey { background: url('/images/images/next_grey.png') no-repeat; }
 	#lbNext.greyOff, #lbNextTop.greyOff { background: url('/images/images/next_grey_off.png') no-repeat; cursor: default; }
